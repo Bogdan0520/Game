@@ -12,7 +12,7 @@ pip install -r requirements.txt
 	1. Классическая запуск **python** скрипта. 
 	   ```python
 	   python main.py
-```
+
 	2. Или просто дважды кликнув по файлу **run.bat**
 ## Цель игры
 
